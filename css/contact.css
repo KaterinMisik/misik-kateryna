@@ -1,0 +1,39 @@
+body {
+	background: url("2.jpg") no-repeat center center fixed; 
+	
+  background-position: center;
+  background-size: cover;
+  
+	color: #fff;
+	padding: 0;
+	margin: 0;
+font-size: 48px;
+text-shadow: 4px 4px 4px #aaa;
+
+}
+
+
+
+h1 {
+	color: white;
+	
+	font-family: 'Quicksand', sans-serif;
+font-size: 55px;
+text-shadow: 4px 4px 4px #aaa;
+text-align: center;
+}
+
+
+
+.offer {
+	width:50%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+@font-face {
+font-family: "Indie Flower";
+src: url("indieflower-regular-webfont.woff") format("woff");
+}
